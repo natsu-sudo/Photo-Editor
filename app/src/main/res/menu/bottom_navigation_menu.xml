@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rotate"
+        android:icon="@drawable/ic_baseline_crop_rotate_24"
+        android:title="@string/rotate" />
+    <item
+        android:id="@+id/crop"
+        android:icon="@drawable/ic_baseline_crop_24"
+        android:title="@string/crop"/>
+
+    <item
+        android:id="@+id/select_another"
+        android:icon="@drawable/ic_baseline_photo_size_select_actual_24"
+        android:title="@string/edit"/>
+
+    <item
+        android:id="@+id/undo"
+        android:icon="@drawable/ic_baseline_undo_24"
+        android:title="@string/undo"/>
+
+    <item
+        android:id="@+id/save_images"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:title="@string/save_image"/>
+</menu>

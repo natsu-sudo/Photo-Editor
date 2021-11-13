@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/rotate_left"
+        android:icon="@drawable/crop_image_menu_rotate_left"
+        android:title="@string/rotate_left" />
+
+
+    <item
+        android:id="@+id/rotate_right"
+        android:icon="@drawable/crop_image_menu_rotate_right"
+        android:title="@string/roate_right"/>
+
+    <item
+        android:id="@+id/save_images_rotation"
+        android:icon="@drawable/ic_baseline_save_24"
+        android:title="@string/save_image"/>
+</menu>

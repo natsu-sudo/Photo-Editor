@@ -1,0 +1,7 @@
+<paths>
+    <external-path
+        name="app_images"
+        path="Android/data/com.assignment.photoeditor/files/Pictures" />
+
+
+</paths>
